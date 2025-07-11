@@ -120,7 +120,4 @@ class DataScientist:
 
 **Thanks for visiting my profile! Feel free to connect and collaborate on exciting data science projects! 🚀**
 
----
-*This README is crafted with ❤️ and lots of ☕*
 
-</div>
