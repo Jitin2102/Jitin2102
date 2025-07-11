@@ -66,6 +66,18 @@ class DataScientist:
 - 🌱 **Learning**: MLOps, model deployment, and production-ready ML systems
 - 🤝 **Collaborating**: Open to contributing to data science projects
 
+## 🧠 LeetCode Stats
+
+- 👨‍💻 Solved ***100+ problems***
+- 💪 Focused on mastering **Data Structures & Algorithms**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/____jitin_2102____)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/____jitin_2102____?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
+
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -84,6 +96,7 @@ class DataScientist:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/____jitin_2102____)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jk9120810343)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jitin2102)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/____jitin_2102____/)
 
 </div>
 
