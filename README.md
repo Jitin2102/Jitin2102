@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 800px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Jitin+Kumar;I'm+a+DSA+Enthusiast;UI/UX+Developer;Data+Science+Enthusiast" alt="Typing animation introducing Jitin Kumar" />
+    <img src="https://readme-typing-svg.demolab.com/?color=39FF14&size=26&width=600&center=true&vCenter=true&lines=Hey!+This+is+Jitin+Kumar;I'm+a+DSA+Enthusiast;UI/UX+Developer;Data+Science+Enthusiast" alt="Typing animation introducing Jitin Kumar" />
   </a>
 </p>
 
@@ -11,7 +12,6 @@
   🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">@UIET Kanpur at CSJMU</a> <br>
   💻 Passionate about data analysis, problem-solving & impactful tech solutions
 </p>
-
 ## 🚀 About Me
 
 I'm a passionate **Data Science and AI enthusiast** from India, dedicated to transforming data into actionable insights and building intelligent solutions. Currently pursuing my journey in the fascinating world of machine learning and artificial intelligence.
