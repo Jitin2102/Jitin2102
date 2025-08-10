@@ -2,13 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; width: 800px;" />
 </p>
 <p align="center">
-  <span>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Jitin+Kumar;I'm+a+DSA+Enthusiast;Front-end Web+Developer;Data+Science+Entusiast" alt="Typing SVG" />
-    </a>
-  </span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?color=5EF72C&size=26&center=true&vCenter=true&lines=Hey!+This+is+Jitin+Kumar;I'm+a+DSA+Enthusiast;UI/UX+Developer;Data+Science+Enthusiast" alt="Typing animation introducing Jitin Kumar" />
+  </a>
 </p>
-
 
 <p align="center">
   🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">@UIET Kanpur at CSJMU</a> <br>
