@@ -12,7 +12,8 @@
   🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">@UIET Kanpur at CSJMU</a> <br>
   💻 Passionate about data analysis, problem-solving & impactful tech solutions
 </p>
-## 🚀 About Me
+
+## 🚀About Me
 
 I'm a passionate **Data Science and AI enthusiast** from India, dedicated to transforming data into actionable insights and building intelligent solutions. Currently pursuing my journey in the fascinating world of machine learning and artificial intelligence.
 
