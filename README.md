@@ -84,8 +84,9 @@ class DataScientist:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=tokyonight" alt="jitin2102" />
+  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=tokyonight" alt="Jitin2102" />
 </div>
+
 ## 🏆 Coding Profiles
 
 <div align="center">
