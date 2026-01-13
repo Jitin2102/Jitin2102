@@ -79,14 +79,13 @@ class DataScientist:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jitin2102&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitin2102&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jitin2102&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitin2102&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitin2102&theme=tokyonight" alt="jitin2102" />
+  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=tokyonight" alt="jitin2102" />
 </div>
-
 ## 🏆 Coding Profiles
 
 <div align="center">
