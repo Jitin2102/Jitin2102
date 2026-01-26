@@ -64,9 +64,9 @@ class DataScientist:
 - 🌱 **Learning**: MLOps, model deployment, and production-ready ML systems
 - 🤝 **Collaborating**: Open to contributing to data science projects
 
-## 🧠 LeetCode Stats
+## LeetCode Stats
 
-- 👨‍💻 Solved ***100+ problems***
+- 👨‍💻 Solved ***200+ problems***
 - 💪 Focused on mastering **Data Structures & Algorithms**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/____jitin_2102____)
