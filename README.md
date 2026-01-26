@@ -27,9 +27,9 @@ class DataScientist:
         self.fun_fact = "I may respond slow, but I deliver quality! 🐌➡️🚀"
 ```
 
-## 💼 Professional Experience
+## 💼 Experiences
 
-📄 **[View My Complete Resume]([https://drive.google.com/file/d/1fKZdofN_6uoVv-8oh-rQuCdOmi7pBACl/view?usp=sharing](https://drive.google.com/file/d/1v3-M90aPkNJUNFChLclV-F-vrJVsxnIm/view?usp=drive_link))**
+📄 [View My Complete Resume](https://drive.google.com/file/d/1v3-M90aPkNJUNFChLclV-F-vrJVsxnIm/view?usp=drive_link)
 
 ## 🛠️ Technical Skills
 
