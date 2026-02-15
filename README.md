@@ -24,7 +24,7 @@ class DataScientist:
         self.location = "India"
         self.interests = ["Data Science", "Machine Learning", "AI", "WebDev"]
         self.current_focus = "Building end-to-end ML pipelines"
-        self.fun_fact = "I may respond slow, but I deliver quality! 🐌➡️🚀"
+        self.fun_fact = "I may respond slow, but I deliver quality! "
 ```
 
 ## 💼 Experiences
