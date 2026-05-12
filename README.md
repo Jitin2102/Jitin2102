@@ -29,7 +29,7 @@ class DataScientist:
 
 ## 💼 Experiences
 
-📄 [View My Complete Resume]([https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH])
+📄 [View My Complete Resume](https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH)
 
 ## 🛠️ Technical Skills
 
