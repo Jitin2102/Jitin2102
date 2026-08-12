@@ -9,88 +9,96 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">@UIET Kanpur at CSJMU</a> <br>
+  🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">UIET Kanpur, CSJMU</a><br>
   💻 Passionate about data analysis, problem-solving & impactful tech solutions
 </p>
 
-## 🚀About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jitin-kumar-63b284320/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/____jitin_2102____"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
 
-I'm a passionate **Data Science and AI enthusiast** from India, dedicated to transforming data into actionable insights and building intelligent solutions. Currently pursuing my journey in the fascinating world of machine learning and artificial intelligence.
+---
+
+## 🚀 About Me
+
+I'm a **Data Science and AI enthusiast** from India, focused on turning data into actionable insights and building intelligent, production-ready solutions. Currently deepening my skills in machine learning and applied AI.
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Jitin Kumar"
         self.location = "India"
-        self.interests = ["Data Science", "Machine Learning", "AI", "WebDev"]
+        self.interests = ["Data Science", "Machine Learning", "AI", "Web Dev"]
         self.current_focus = "Building end-to-end ML pipelines"
-        self.fun_fact = "I may respond slow, but I deliver quality! "
+        self.fun_fact = "I may respond slow, but I deliver quality!"
 ```
 
-## 💼 Experiences
+## 💼 Experience
 
-📄 [View My Complete Resume](https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH)
+📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH)
 
 ## 🛠️ Technical Skills
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Science & ML
+**Data Science & ML**
+
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Web Technologies
+**Web Technologies**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ## 🎯 Current Focus
 
-- 🔬 **Exploring**: Advanced machine learning algorithms and deep learning architectures
-- 📊 **Building**: Data visualization dashboards and predictive models
-- 🌱 **Learning**: MLOps, model deployment, and production-ready ML systems
-- 🤝 **Collaborating**: Open to contributing to data science projects
+- 🔬 Exploring advanced machine learning algorithms and deep learning architectures
+- 📊 Building data visualization dashboards and predictive models
+- 🌱 Learning MLOps, model deployment, and production-ready ML systems
+- 🤝 Open to collaborating on data science projects
 
-## LeetCode Stats
+## 🧩 LeetCode Stats
 
-- 👨‍💻 Solved ***400+ problems***
-- 💪 Focused on mastering **Data Structures & Algorithms**
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/____jitin_2102____)
+👨‍💻 400+ problems solved · focused on mastering Data Structures & Algorithms
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/____jitin_2102____?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
-
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jitin2102&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitin2102&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jitin2102&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitin2102&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=tokyonight" alt="Jitin2102" />
+  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=tokyonight" alt="Jitin2102 GitHub streak stats" />
 </div>
 
 ## 🏆 Coding Profiles
 
 <div align="center">
-  
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/____jitin_2102____)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jk9120810343)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jitin2102)
@@ -101,7 +109,7 @@ class DataScientist:
 ## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin-kumar-63b284320/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jitin_2102)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitinkuietkanpur@gmail.com)
@@ -111,11 +119,11 @@ class DataScientist:
 ---
 
 <div align="center">
-  
+
 ### 💡 "Data is the new oil, but insights are the refined fuel that powers innovation."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jitin2102&label=Profile%20views&color=0e75b6&style=flat)
 
-**Thanks for visiting my profile! Feel free to connect and collaborate on exciting data science projects! 🚀**
+**Thanks for visiting! Open to connecting and collaborating on data science projects. 🚀**
 
-
+</div>
