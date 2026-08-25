@@ -10,7 +10,7 @@
 
 <p align="center">
   🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">UIET Kanpur, CSJMU</a><br>
-  💻 Passionate about data analysis, problem-solving & impactful tech solutions
+  💻 Passionate about data science, problem-solving & impactful tech solutions
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Jitin Kumar"
         self.location = "India"
-        self.interests = ["Data Science", "Machine Learning", "AI", "Web Dev"]
+        self.interests = ["Data Science", "Machine Learning", "AI"]
         self.current_focus = "Building end-to-end ML pipelines"
         self.fun_fact = "I may respond slow, but I deliver quality!"
 ```
