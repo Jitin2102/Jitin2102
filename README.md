@@ -124,6 +124,6 @@ class DataScientist:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jitin2102&label=Profile%20views&color=0e75b6&style=flat)
 
-**Thanks for visiting! Open to connecting and collaborating on data science projects. 🚀**
+**Thanks for visiting! Open to connecting and collaborating on data science projects. **
 
 </div>
