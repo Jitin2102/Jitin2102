@@ -9,35 +9,55 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science Engineering student at <a href="https://www.csjmu.ac.in/">UIET Kanpur, CSJMU</a><br>
-  💻 Passionate about data science, problem-solving & impactful tech solutions
+  🎓 Studying at <a href="https://www.csjmu.ac.in/">Chhatrapati Shahu Ji Maharaj University (CSJMU), Kanpur</a><br>
+  🛠️ Building ML-backed systems from scratch | FastAPI, Python, C | CPU Schedulers, IPC & Model-Serving APIs<br>
+  📍 Kanpur, Uttar Pradesh, India · Seeking AI/ML Internships
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jitin-kumar-63b284320/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jitin2102"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/____jitin_2102____"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://github.com/Jitin2102"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Data Science and AI enthusiast** from India, focused on turning data into actionable insights and building intelligent, production-ready solutions. Currently deepening my skills in machine learning and applied AI.
+I build ML-backed systems from scratch — the API layers, pipelines, and low-level infrastructure most people never see. Currently deepening my skills in machine learning and applied AI, and open to AI/ML internships.
+
+**Top skills:** Python · FastAPI · C Programming (System-level) · Scikit-Learn · Linux System Calls & Utilities
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Jitin Kumar"
-        self.location = "India"
+        self.location = "Kanpur, Uttar Pradesh, India"
         self.interests = ["Data Science", "Machine Learning", "AI"]
         self.current_focus = "Building end-to-end ML pipelines"
+        self.open_to = "AI/ML Internships"
         self.fun_fact = "I may respond slow, but I deliver quality!"
 ```
 
 ## 💼 Experience
 
 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH)
+
+## 📌 Pinned Projects
+
+- **[SkillGreen](https://github.com/Jitin2102/SkillGreen)** — Predicts ESG (Environmental, Social, Governance) career readiness from a professional's profile. FastAPI + Pydantic backend, scikit-learn model, React frontend. Built as part of the 1M1B Green Skills program.
+- **[RiskLens](https://github.com/Jitin2102/RiskLens)** — Predicts insurance premium risk category (Low/Medium/High) from a user's profile, served via FastAPI with feature engineering baked into the input model.
+- **[ModelServe](https://github.com/Jitin2102/ModelServe)** — FastAPI for ML: rapid deployment of ML models as REST APIs with preprocessing, prediction, and evaluation endpoints, auto docs, and easy scaling.
+- **[QuantumSync](https://github.com/Jitin2102/QuantumSync)** — CPU scheduling and IPC demos, a systems-programming portfolio in C.
+- **[My-PowerShell](https://github.com/Jitin2102/My-PowerShell)** — A mini interactive Unix shell built in C supporting command execution, pipes, redirection, and background processes.
+- **[Data-Science-Projects-Internship](https://github.com/Jitin2102/Data-Science-Projects-Internship)** — Projects built during a Data Science & Analytics internship at Tamizhan Skills.
+
+## 📜 Licenses & Certifications
+
+- **IIRS Certificate** — Indian Institute of Remote Sensing (IIRS), ISRO · Issued Aug 2026 · Geographic Information Systems (GIS), Remote Sensing +2 skills
+- **Green Skills and Applied AI for Climate Action** — 1M1B (1 Million for 1 Billion) BootCamp · Issued Jun 2026
+- *+5 more — see full list on [LinkedIn](https://www.linkedin.com/in/jitin2102)*
 
 ## 🛠️ Technical Skills
 
@@ -56,12 +76,14 @@ class DataScientist:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Web Technologies**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Platforms**
 
@@ -85,6 +107,8 @@ class DataScientist:
 </p>
 
 ## 📈 GitHub Analytics
+
+29 public repos · 106 stars earned · 10 followers on GitHub · 500+ LinkedIn connections · [Developer Program Member](https://docs.github.com/developers/overview/github-developer-program)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jitin2102&show_icons=true&theme=tokyonight" />
@@ -110,9 +134,10 @@ class DataScientist:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin-kumar-63b284320/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitin2102)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jitin_2102)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitinkuietkanpur@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jitin2102)
 
 </div>
 
@@ -124,6 +149,6 @@ class DataScientist:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jitin2102&label=Profile%20views&color=0e75b6&style=flat)
 
-**Thanks for visiting! Open to connecting and collaborating on data science projects. **
+**Thanks for visiting! Open to connecting and collaborating on data science projects.**
 
 </div>
