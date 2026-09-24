@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
-# Hi 👋, I'm **Jitin Kumar**
+# Hi, I'm **Jitin Kumar**
 
 ### AI/ML Developer • Backend Engineer • Data Science Enthusiast
 
@@ -59,24 +59,24 @@ class JitinKumar:
 
 ## 🚀 Featured Projects
 
-### 🌱 [SkillGreen](https://github.com/Jitin2102/SkillGreen)
+### [SkillGreen](https://github.com/Jitin2102/SkillGreen)
 
-**AI-powered ESG career readiness platform**
+**AI-powered ESG Career Readiness Platform**
 
 > A machine-learning application designed to evaluate skill readiness and provide data-driven insights for green careers.
 
 **Tech:** `Python` `FastAPI` `Pydantic` `Scikit-Learn` `React` `Vite` `Docker`
 
-* 🤖 ML-based readiness prediction
-* 🧠 Custom feature engineering
-* ⚡ FastAPI inference backend
-* 🛡️ Pydantic request validation
-* 🎨 React-based frontend
-* 🐳 Dockerized deployment
+* ML-based readiness prediction
+* Custom feature engineering
+* FastAPI inference backend
+* Pydantic request validation
+* React-based frontend
+* Dockerized deployment
 
 ---
 
-### 🛡️ [RiskLens](https://github.com/Jitin2102/RiskLens)
+### [RiskLens](https://github.com/Jitin2102/RiskLens)
 
 **Machine Learning Insurance Risk Prediction**
 
@@ -84,14 +84,14 @@ class JitinKumar:
 
 **Tech:** `Python` `Scikit-Learn` `FastAPI` `Pydantic`
 
-* 📊 Data preprocessing & feature engineering
-* 🤖 ML model training and inference
-* ⚡ REST API for predictions
-* 📖 Swagger / OpenAPI documentation
+* Data preprocessing & feature engineering
+* ML model training and inference
+* REST API for predictions
+* Swagger / OpenAPI documentation
 
 ---
 
-### ⚙️ [ModelServe](https://github.com/Jitin2102/ModelServe)
+### [ModelServe](https://github.com/Jitin2102/ModelServe)
 
 **Production-oriented ML Model Serving API**
 
@@ -99,14 +99,14 @@ class JitinKumar:
 
 **Tech:** `Python` `FastAPI` `Scikit-Learn` `Pydantic`
 
-* 🚀 Prediction endpoints
-* 🔄 Preprocessing pipeline
-* 🧪 Model evaluation
-* 📚 Automatic API documentation
+* Prediction endpoints
+* Preprocessing pipeline
+* Model evaluation
+* Automatic API documentation
 
 ---
 
-### 💻 [QuantumSync](https://github.com/Jitin2102/QuantumSync)
+### [QuantumSync](https://github.com/Jitin2102/QuantumSync)
 
 **Systems Programming & OS Concepts in C**
 
@@ -114,15 +114,15 @@ class JitinKumar:
 
 **Tech:** `C` `Linux` `System Calls`
 
-* ⏱️ CPU scheduling
-* 🔄 Process management
-* 🔗 IPC mechanisms
-* 🔒 Synchronization
-* 🐧 Linux system calls
+* CPU scheduling
+* Process management
+* IPC mechanisms
+* Synchronization
+* Linux system calls
 
 ---
 
-### 🐚 [My-PowerShell](https://github.com/Jitin2102/My-PowerShell)
+### [My-PowerShell](https://github.com/Jitin2102/My-PowerShell)
 
 **Unix-style Shell Implementation in C**
 
@@ -130,11 +130,11 @@ class JitinKumar:
 
 **Tech:** `C` `Linux` `POSIX`
 
-* ▶️ Command execution
-* 🔀 Pipes
-* 📥 I/O redirection
-* ⚡ Background processes
-* 🔧 Process management
+* Command execution
+* Pipes
+* I/O redirection
+* Background processes
+* Process management
 
 ---
 
@@ -199,15 +199,15 @@ Docker Deployment
 Production-ready ML Systems
 ```
 
-### 🎯 Current Focus
+### Current Focus
 
-* 🤖 Machine Learning Engineering
-* ⚡ FastAPI & backend architecture
-* 🐳 Docker & deployment
-* 📊 Data Science & predictive modeling
-* 🧩 Data Structures & Algorithms
-* 💻 Systems programming with C/Linux
-* 🏗️ Building end-to-end AI applications
+* Machine Learning Engineering
+* FastAPI & backend architecture
+* Docker & deployment
+* Data Science & predictive modeling
+* Data Structures & Algorithms
+* Systems programming with C/Linux
+* Building end-to-end AI applications
 
 ---
 
@@ -215,7 +215,7 @@ Production-ready ML Systems
 
 I actively practice **Data Structures & Algorithms** and problem solving.
 
-### 🏆 400+ LeetCode Problems Solved
+### 400+ LeetCode Problems Solved
 
 <p align="center">
   <a href="https://leetcode.com/u/____jitin_2102____/">
@@ -240,26 +240,31 @@ I actively practice **Data Structures & Algorithms** and problem solving.
 
 ## 🏅 Certifications
 
-* 🎓 **IIRS Certificate** — Indian Institute of Remote Sensing (ISRO)
-* 🌱 **Green Skills & Applied AI for Climate Action** — 1M1B BootCamp
+* **IIRS Certificate** — Indian Institute of Remote Sensing (ISRO)
+* **Green Skills & Applied AI for Climate Action** — 1M1B BootCamp
 
 ---
 
 ## 📚 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/____jitin_2102____/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/jk9120810343">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://www.kaggle.com/jitin2102">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/____jitin_2102____/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+
+<a href="https://leetcode.com/u/____jitin_2102____/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/jk9120810343">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.kaggle.com/jitin2102">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/____jitin_2102____/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -277,22 +282,26 @@ I actively practice **Data Structures & Algorithms** and problem solving.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jitin2102">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jitinkuietkanpur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jitin2102">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/jitin2102">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jitinkuietkanpur@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jitin2102">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 🚀 Building intelligent systems from data to deployment.
+### Building intelligent systems from data to deployment.
 
 `AI/ML` · `Backend Engineering` · `Data Science` · `Systems Programming`
 
