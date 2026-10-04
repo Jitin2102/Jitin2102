@@ -109,7 +109,7 @@ flowchart LR
 <summary><b>Green Skills &amp; Applied AI for Climate Action Intern</b> &nbsp;|&nbsp; 1M1B &nbsp;|&nbsp; <code>Jun 2026 - Aug 2026</code></summary>
 <br/>
 
-Programme run with Microsoft Elevate, MeitY Startup Hub and UP Pragya.
+- Programme run with *Microsoft Elevate*, *MeitY Startup Hub* and *UP Pragya*.
 
 - Completed **70+ hours** of training in AI for climate action and green skills.
 - Built and deployed **SkillGreen**, an ESG career-readiness prediction platform, using **FastAPI, Scikit-Learn and React**.
