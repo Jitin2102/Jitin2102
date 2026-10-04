@@ -45,7 +45,7 @@ role:        AI/ML Developer, Backend Engineer
 education:   B.Tech CSE (AI)
 university:  CSJM University (UIET), Kanpur
 period:      Aug 2024 - Jun 2028
-cgpa:        8.71 / 10   # top 15% of cohort
+cgpa:        8.71 / 10  
 core_stack:  Python, FastAPI, Scikit-Learn
 domains:     ML, NLP, Data Science, Applied AI
 seeking:     Internships in applied AI / ML
