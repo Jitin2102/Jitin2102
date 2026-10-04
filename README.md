@@ -1,312 +1,439 @@
+<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Jitin%20Kumar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Backend%20Engineer%20%7C%20Data%20Science&descAlignY=60&descSize=18" width="100%" alt="Jitin Kumar"/>
 
-# Hi, I'm **Jitin Kumar**
+<a href="https://github.com/Jitin2102">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Building+AI+from+data+to+deployment;Machine+Learning+and+Data+Science;Python+%7C+FastAPI+%7C+Scikit-Learn;Applied+AI+for+Climate+and+Education" alt="Typing SVG"/>
+</a>
 
-### AI/ML Developer • Backend Engineer • Data Science Enthusiast
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Machine+Learning+%26+Data+Science;Backend+%26+ML+Systems;FastAPI+%7C+Python+%7C+Scikit-Learn;Systems+Programming+in+C" alt="Typing SVG"/>
+<a href="https://github.com/Jitin2102"><img src="https://img.shields.io/badge/GitHub-Jitin2102-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jitin2102"><img src="https://img.shields.io/badge/LinkedIn-Jitin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://skill-green.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-SkillGreen-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<p>
-  <a href="https://github.com/Jitin2102">
-    <img src="https://img.shields.io/badge/GitHub-Jitin2102-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jitin2102">
-    <img src="https://img.shields.io/badge/LinkedIn-Jitin%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jitinkuietkanpur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jitin2102&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20internships-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Jitin2102?style=flat-square&logo=github&label=Followers"/>
+
+<br/><br/>
+
+**[About](#about)** &nbsp;|&nbsp; **[Impact](#impact)** &nbsp;|&nbsp; **[Experience](#experience)** &nbsp;|&nbsp; **[Projects](#projects)** &nbsp;|&nbsp; **[Skills](#skills)** &nbsp;|&nbsp; **[Stats](#stats)** &nbsp;|&nbsp; **[Contact](#contact)**
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<a name="about"></a>
 
-I'm a **B.Tech Computer Science student** focused on building practical software at the intersection of **Machine Learning, Backend Engineering, Data Science, and Systems Programming**.
+## About
 
-I enjoy turning ideas into working systems — from **data preprocessing and model development** to **API deployment and production-ready engineering**.
+> *Building intelligent systems that turn data into useful decisions.*
 
-```python
-class JitinKumar:
-    def __init__(self):
-        self.role = "AI/ML & Backend Developer"
-        self.languages = ["Python", "C", "C++", "JavaScript", "SQL"]
-        self.interests = [
-            "Machine Learning",
-            "Backend Systems",
-            "Data Science",
-            "Systems Programming",
-            "DSA"
-        ]
-        self.current_focus = [
-            "ML Engineering",
-            "FastAPI",
-            "Docker",
-            "Scalable Backend Systems"
-        ]
+I'm a **B.Tech Computer Science Engineering (AI)** student at **CSJM University (UIET), Kanpur**. I build machine-learning systems end to end: **data, model, API, deployment**. My focus is **applied ML and NLP for climate action and education**, with an emphasis on systems that are **explainable, personalised and useful outside a notebook**.
 
-    def goal(self):
-        return "Build intelligent systems that solve real-world problems."
+<table>
+<tr>
+<td width="52%" valign="top">
+
+```yaml
+name:        Jitin Kumar
+role:        AI/ML Developer, Backend Engineer
+education:   B.Tech CSE (AI)
+university:  CSJM University (UIET), Kanpur
+period:      Aug 2024 - Jun 2028
+cgpa:        8.71 / 10   # top 15% of cohort
+core_stack:  Python, FastAPI, Scikit-Learn
+domains:     ML, NLP, Data Science, Applied AI
+seeking:     Internships in applied AI / ML
 ```
 
----
+</td>
+<td width="48%" valign="top">
 
-## 🚀 Featured Projects
+**Currently working on**
 
-### [SkillGreen](https://github.com/Jitin2102/SkillGreen)
+- Extending **SkillGreen** with resume parsing, model explainability and skill-gap analysis
+- Strengthening ML and NLP fundamentals
+- Writing cleaner, production-style ML serving code
 
-**AI-powered ESG Career Readiness Platform**
+**Ask me about**
 
-> A machine-learning application designed to evaluate skill readiness and provide data-driven insights for green careers.
+- Serving ML models with FastAPI
+- Feature engineering with Scikit-Learn
+- Shipping ML apps with Docker, Render and Vercel
 
-**Tech:** `Python` `FastAPI` `Pydantic` `Scikit-Learn` `React` `Vite` `Docker`
-
-* ML-based readiness prediction
-* Custom feature engineering
-* FastAPI inference backend
-* Pydantic request validation
-* React-based frontend
-* Dockerized deployment
-
----
-
-### [RiskLens](https://github.com/Jitin2102/RiskLens)
-
-**Machine Learning Insurance Risk Prediction**
-
-> End-to-end ML system for predicting insurance-related risk using structured data.
-
-**Tech:** `Python` `Scikit-Learn` `FastAPI` `Pydantic`
-
-* Data preprocessing & feature engineering
-* ML model training and inference
-* REST API for predictions
-* Swagger / OpenAPI documentation
+</td>
+</tr>
+</table>
 
 ---
 
-### [ModelServe](https://github.com/Jitin2102/ModelServe)
+<a name="impact"></a>
 
-**Production-oriented ML Model Serving API**
-
-> A lightweight FastAPI service for serving trained machine-learning models.
-
-**Tech:** `Python` `FastAPI` `Scikit-Learn` `Pydantic`
-
-* Prediction endpoints
-* Preprocessing pipeline
-* Model evaluation
-* Automatic API documentation
-
----
-
-### [QuantumSync](https://github.com/Jitin2102/QuantumSync)
-
-**Systems Programming & OS Concepts in C**
-
-> A collection of implementations exploring operating-system and process-management concepts.
-
-**Tech:** `C` `Linux` `System Calls`
-
-* CPU scheduling
-* Process management
-* IPC mechanisms
-* Synchronization
-* Linux system calls
-
----
-
-### [My-PowerShell](https://github.com/Jitin2102/My-PowerShell)
-
-**Unix-style Shell Implementation in C**
-
-> A mini shell exploring process creation, command execution, pipes, and I/O management.
-
-**Tech:** `C` `Linux` `POSIX`
-
-* Command execution
-* Pipes
-* I/O redirection
-* Background processes
-* Process management
-
----
-
-## 🧠 Technical Skills
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-### Machine Learning & Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-### Backend & Web
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
-
----
-
-## 🔬 What I'm Working On
-
-```text
-Machine Learning
-      ↓
-Data Processing
-      ↓
-Feature Engineering
-      ↓
-Model Development
-      ↓
-FastAPI Inference
-      ↓
-Docker Deployment
-      ↓
-Production-ready ML Systems
-```
-
-### Current Focus
-
-* Machine Learning Engineering
-* FastAPI & backend architecture
-* Docker & deployment
-* Data Science & predictive modeling
-* Data Structures & Algorithms
-* Systems programming with C/Linux
-* Building end-to-end AI applications
-
----
-
-## 🧩 DSA & Competitive Programming
-
-I actively practice **Data Structures & Algorithms** and problem solving.
-
-### 400+ LeetCode Problems Solved
-
-<p align="center">
-  <a href="https://leetcode.com/u/____jitin_2102____/">
-    <img src="https://leetcard.jacoblin.cool/____jitin_2102____?theme=dark&font=Fira+Code&ext=heatmap" alt="Jitin's LeetCode Stats"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Jitin2102&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Jitin2102&theme=ambient_gradient&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jitin2102&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
-
----
-
-## 🏅 Certifications
-
-* **IIRS Certificate** — Indian Institute of Remote Sensing (ISRO)
-* **Green Skills & Applied AI for Climate Action** — 1M1B BootCamp
-
----
-
-## 📚 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/____jitin_2102____/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/jk9120810343">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.kaggle.com/jitin2102">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/____jitin_2102____/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH">
-    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jitin2102">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jitinkuietkanpur@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Jitin2102">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
+## Impact in Numbers
 
 <div align="center">
 
-### Building intelligent systems from data to deployment.
+<img src="https://img.shields.io/badge/400%2B-LeetCode%20problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/87%25-Model%20accuracy-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/70%2B-Hours%20of%20climate%20AI-2EA043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Top%203-IIT%20Kanpur%20showcase-8957E5?style=for-the-badge"/>
 
-`AI/ML` · `Backend Engineering` · `Data Science` · `Systems Programming`
+<img src="https://img.shields.io/badge/40%25-Faster%20data%20handling-DA3633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/25%25-Fewer%20data%20inconsistencies-D29922?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/20%25-Shorter%20training%20time-0A66C2?style=for-the-badge"/>
 
-<br>
+</div>
 
-<i>Thanks for stopping by! ⭐</i>
+---
+
+<a name="experience"></a>
+
+## Experience
+
+```mermaid
+flowchart LR
+    A["AWS APAC Solutions<br/>Architecture<br/>Jan 2025"] --> B["ML Intern<br/>TechKriti, IIT Kanpur<br/>Jan - Feb 2025"]
+    B --> C["Data Science Intern<br/>Tamizhan Skills<br/>Jun - Jul 2025"]
+    C --> D["Green Skills and Applied AI<br/>1M1B<br/>Jun - Aug 2026"]
+    D --> E["Next internship"]
+    style D fill:#1F6FEB,color:#ffffff,stroke:#1F6FEB
+    style E stroke-dasharray: 5 5
+```
+
+<details open>
+<summary><b>Green Skills &amp; Applied AI for Climate Action Intern</b> &nbsp;|&nbsp; 1M1B &nbsp;|&nbsp; <code>Jun 2026 - Aug 2026</code></summary>
+<br/>
+
+Programme run with Microsoft Elevate, MeitY Startup Hub and UP Pragya.
+
+- Completed **70+ hours** of training in AI for climate action and green skills.
+- Built and deployed **SkillGreen**, an ESG career-readiness prediction platform, using **FastAPI, Scikit-Learn and React**.
+- Extending it with **resume parsing, model explainability and skill-gap analysis**.
+
+</details>
+
+<details>
+<summary><b>Data Science &amp; Analytics Intern</b> &nbsp;|&nbsp; Tamizhan Skills &nbsp;|&nbsp; <code>Jun 2025 - Jul 2025</code></summary>
+<br/>
+
+- Worked across the complete data workflow on **5+ datasets**.
+- Reduced dataset inconsistencies by about **25%** through outlier detection and missing-value handling.
+- Reduced data-handling time by about **40%** with vectorised NumPy operations.
+- Built **3 interactive Plotly dashboards** for data-driven analysis.
+
+</details>
+
+<details>
+<summary><b>Machine Learning Intern</b> &nbsp;|&nbsp; TechKriti, IIT Kanpur &nbsp;|&nbsp; <code>Jan 2025 - Feb 2025</code></summary>
+<br/>
+
+- Built **2 supervised learning models**: an NLP classifier and a regression model.
+- Reduced training time by about **20%** through feature selection and efficient Scikit-Learn preprocessing.
+- Ranked **Top 3** in the internal showcase and presented results to an **IIT Kanpur faculty panel**.
+
+</details>
+
+<details>
+<summary><b>AWS APAC Solutions Architecture Virtual Program</b> &nbsp;|&nbsp; Forage &nbsp;|&nbsp; <code>Jan 2025</code></summary>
+<br/>
+
+- Designed a scalable **AWS Elastic Beanstalk** hosting architecture for a simulated client requirement.
+- Presented the technical recommendation clearly to a non-technical audience.
+
+</details>
+
+---
+
+<a name="projects"></a>
+
+## Featured Projects
+
+<div align="center">
+
+| **SkillGreen** | **RiskLens** | **ModelServe** |
+|:---:|:---:|:---:|
+| ESG career-readiness prediction | Insurance premium risk classifier | ML model-serving layer |
+| `FastAPI` `React` `PostgreSQL` `Docker` | `Scikit-Learn` `FastAPI` | `FastAPI` `Jupyter` |
+| [Repository](https://github.com/Jitin2102/SkillGreen) &nbsp;/&nbsp; [Live demo](https://skill-green.vercel.app) | [Repository](https://github.com/Jitin2102/RiskLens) | [Repository](https://github.com/Jitin2102/ModelServe) |
+
+</div>
+
+### SkillGreen: ESG Career-Readiness Prediction Platform
+
+> An end-to-end ML application that predicts ESG career readiness from a user's profile and provides the foundation for personalised career insights.
+
+<div align="center">
+
+<a href="https://github.com/Jitin2102/SkillGreen"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://skill-green.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+**System architecture**
+
+```mermaid
+flowchart LR
+    U(["User"]) --> F["React + Vite<br/>Vercel"]
+    F -->|"REST / JSON"| B["FastAPI + Pydantic<br/>Docker on Render"]
+    B --> M["Scikit-Learn model"]
+    B --> D[("PostgreSQL<br/>Render")]
+    M --> B
+    B --> F
+    style F fill:#1F6FEB,color:#ffffff,stroke:#1F6FEB
+    style B fill:#2EA043,color:#ffffff,stroke:#2EA043
+```
+
+**Request lifecycle**
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant F as React Frontend
+    participant A as FastAPI
+    participant M as ML Model
+    participant DB as PostgreSQL
+    U->>F: Submit profile
+    F->>A: POST /predict
+    A->>A: Validate with Pydantic
+    A->>M: Engineered features
+    M-->>A: Readiness prediction
+    A->>DB: Store result
+    A-->>F: JSON response
+    F-->>U: Career-readiness insights
+```
+
+<details>
+<summary><b>Build details and roadmap</b></summary>
+<br/>
+
+- ML-based ESG career-readiness prediction with feature engineering and predictive modelling
+- FastAPI + Pydantic inference backend, containerised with Docker
+- React + Vite frontend on Vercel; backend and PostgreSQL database on Render
+- **In development:** resume parsing, model explainability, skill-gap analysis
+
+**Stack:** `Python` `Scikit-Learn` `FastAPI` `Pydantic` `React` `Vite` `PostgreSQL` `Docker`
+
+</details>
+
+### RiskLens: Insurance Premium Risk Predictor
+
+> Classifies an insurance profile into **Low, Medium or High** premium-risk categories.
+
+<details>
+<summary><b>Build details</b></summary>
+<br/>
+
+- Structured-data preprocessing with feature engineering integrated into the model pipeline
+- ML-based risk classification
+- FastAPI inference service exposed through a REST interface
+
+**Stack:** `Python` `Scikit-Learn` `FastAPI` `Feature Engineering`
+
+</details>
+
+### ModelServe: FastAPI ML Model Serving Layer
+
+> A lightweight serving layer that exposes trained models through structured REST APIs.
+
+<details>
+<summary><b>Build details</b></summary>
+<br/>
+
+- Preprocessing, prediction and model-evaluation endpoints
+- Auto-generated API documentation
+- Jupyter-based experimentation workflow
+
+**Stack:** `Python` `FastAPI` `REST APIs` `Jupyter`
+
+</details>
+
+### Student Performance Analytics Dashboard
+
+> Combines academic and behavioural signals to identify students who may need early intervention.
+
+<details>
+<summary><b>Build details</b></summary>
+<br/>
+
+- Combined **grades, attendance and login activity** into one dataset
+- **Random Forest** classifier reaching **87% accuracy** in identifying low-performing students
+- Dashboard-oriented data pipeline with per-student improvement suggestions
+
+**Stack:** `Python` `Pandas` `Scikit-Learn` `Matplotlib` `Jupyter`
+
+</details>
+
+<!-- Add QuantumSync, MyShell and the Tamizhan projects here in the same format. -->
+
+---
+
+## How I Build
+
+```mermaid
+flowchart LR
+    A["Data<br/>cleaning, outliers,<br/>missing values"] --> B["Features<br/>engineering and<br/>selection"]
+    B --> C["Model<br/>training and<br/>evaluation"]
+    C --> D["API<br/>FastAPI +<br/>Pydantic"]
+    D --> E["Deploy<br/>Docker, Render,<br/>Vercel"]
+    style A fill:#161B22,color:#ffffff,stroke:#30363D
+    style B fill:#161B22,color:#ffffff,stroke:#30363D
+    style C fill:#1F6FEB,color:#ffffff,stroke:#1F6FEB
+    style D fill:#161B22,color:#ffffff,stroke:#30363D
+    style E fill:#2EA043,color:#ffffff,stroke:#2EA043
+```
+
+---
+
+<a name="skills"></a>
+
+## Skills
+
+<div align="center">
+
+**Languages and Core Tools**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux,vscode" />
+
+**Machine Learning and AI**
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+**Data and Visualisation**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+**Backend, Web and Deployment**
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,postgres,docker,aws,vercel,html,css" />
+
+</div>
+
+```mermaid
+mindmap
+  root((Jitin Kumar))
+    Machine Learning
+      Predictive Modelling
+      Feature Engineering
+      Random Forest
+      Linear Regression
+      NLP
+      Model Evaluation
+    Backend
+      FastAPI
+      Pydantic
+      REST APIs
+      PostgreSQL
+    Deployment
+      Docker
+      AWS
+      Vercel
+      Render
+    Data
+      NumPy
+      Pandas
+      Plotly
+```
+
+---
+
+<a name="stats"></a>
+
+## Stats and Activity
+
+<div align="center">
+
+**Contributions over the last 12 months**
+
+<img src="https://ghchart.rshah.org/1F6FEB/Jitin2102" width="100%" alt="GitHub contribution chart"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jitin2102/Jitin2102/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jitin2102/Jitin2102/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jitin2102/Jitin2102/output/github-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/Jitin2102?tab=repositories">
+<img src="https://img.shields.io/github/followers/Jitin2102?style=for-the-badge&logo=github&label=Followers&color=1F6FEB"/>
+</a>
+<a href="https://github.com/Jitin2102/SkillGreen">
+<img src="https://img.shields.io/github/stars/Jitin2102/SkillGreen?style=for-the-badge&logo=github&label=SkillGreen%20Stars&color=2EA043"/>
+</a>
+<a href="https://github.com/Jitin2102/SkillGreen/commits">
+<img src="https://img.shields.io/github/last-commit/Jitin2102/SkillGreen?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit&color=8957E5"/>
+</a>
+<a href="https://github.com/Jitin2102/SkillGreen">
+<img src="https://img.shields.io/github/languages/top/Jitin2102/SkillGreen?style=for-the-badge&label=Top%20Language&color=D29922"/>
+</a>
+
+<br/><br/>
+
+**400+ LeetCode problems solved**
+
+<a href="https://leetcode.com/u/____jitin_2102____/">
+<img src="https://leetcard.jacoblin.cool/____jitin_2102____?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+</div>
+
+---
+
+## Certifications and Activities
+
+| Certification / Activity | Organization |
+|---|---|
+| Machine Learning Certification | **TechKriti, IIT Kanpur** |
+| Data Science & Analytics Certification | **Tamizhan Skills** |
+| Machine Learning with Python | **freeCodeCamp** |
+| Green Skills & Applied AI for Climate Action | **1M1B** |
+| National Service Scheme | **NSS Volunteer** |
+
+### Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/____jitin_2102____/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/jk9120810343"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://www.kaggle.com/jitin2102"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/____jitin_2102____/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+---
+
+<a name="contact"></a>
+
+## Contact
+
+<div align="center">
+
+I'm open to **internships** and collaborations in **applied ML, NLP and AI for climate and education**.
+
+<a href="https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH"><img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jitin2102"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jitin2102"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+`AI/ML` &nbsp;|&nbsp; `Backend Engineering` &nbsp;|&nbsp; `Data Science` &nbsp;|&nbsp; `Applied AI`
+
+<i>Thanks for stopping by. 🌠⭐</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
