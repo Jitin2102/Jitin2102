@@ -81,7 +81,6 @@ seeking:     Internships in applied AI / ML
 <img src="https://img.shields.io/badge/400%2B-LeetCode%20problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/94.75%25-Model%20accuracy-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/70%2B-Hours%20of%20climate%20AI-2EA043?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Top%203-IIT%20Kanpur%20showcase-8957E5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/40%25-Faster%20data%20handling-DA3633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/25%25-Fewer%20data%20inconsistencies-D29922?style=for-the-badge"/>
