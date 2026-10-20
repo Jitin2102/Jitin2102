@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/jitin2102"><img src="https://img.shields.io/badge/LinkedIn-Jitin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://skill-green.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-SkillGreen-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://hub.xerj.org/contributors/Jitin2102"><img src="https://hub.xerj.org/contributors/Jitin2102/badge.svg" alt="XERJ Corpus Hub contributor"/></a>
 
 <br/><br/>
 
@@ -21,7 +22,7 @@
 
 <br/><br/>
 
-**[About](#about)** &nbsp;|&nbsp; **[Impact](#impact)** &nbsp;|&nbsp; **[Experience](#experience)** &nbsp;|&nbsp; **[Projects](#projects)** &nbsp;|&nbsp; **[Skills](#skills)** &nbsp;|&nbsp; **[Stats](#stats)** &nbsp;|&nbsp; **[Contact](#contact)**
+**[About](#about)** &nbsp;|&nbsp; **[Impact](#impact)** &nbsp;|&nbsp; **[Experience](#experience)** &nbsp;|&nbsp; **[Projects](#projects)** &nbsp;|&nbsp; **[Open Source](#open-source)** &nbsp;|&nbsp; **[Skills](#skills)** &nbsp;|&nbsp; **[Stats](#stats)** &nbsp;|&nbsp; **[Contact](#contact)**
 
 </div>
 
@@ -56,7 +57,8 @@ seeking:     Internships in applied AI / ML
 
 **Currently working on**
 
-- Extending **SkillGreen** with resume parsing, model explainability and skill-gap analysis
+- Extending **SkillGreen** with backend resume parsing and model explainability
+- Contributing to open source through the **XERJ Corpus Hub**
 - Strengthening ML and NLP fundamentals
 - Writing cleaner, production-style ML serving code
 
@@ -86,6 +88,8 @@ seeking:     Internships in applied AI / ML
 <img src="https://img.shields.io/badge/25%25-Fewer%20data%20inconsistencies-D29922?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/20%25-Shorter%20training%20time-0A66C2?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/5%2C700%2B-Lines%20contributed%20to%20XERJ-8957E5?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -112,7 +116,8 @@ flowchart LR
 
 - Completed **70+ hours** of training in AI for climate action and green skills.
 - Built and deployed **SkillGreen**, an ESG career-readiness prediction platform, using **FastAPI, Scikit-Learn and React**.
-- Extending it with **resume parsing, model explainability and skill-gap analysis**.
+- Built the frontend for **authentication, resume workflows and skill-gap analysis**, later contributed to the **XERJ Corpus Hub**.
+- Extending the backend with **resume parsing and model explainability**.
 
 </details>
 
@@ -170,6 +175,7 @@ flowchart LR
 
 <a href="https://github.com/Jitin2102/SkillGreen"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://skill-green.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://hub.xerj.org/contributors/Jitin2102"><img src="https://hub.xerj.org/contributors/Jitin2102/badge.svg" alt="XERJ Corpus Hub contributor"/></a>
 
 </div>
 
@@ -213,7 +219,9 @@ sequenceDiagram
 - ML-based ESG career-readiness prediction with feature engineering and predictive modelling
 - FastAPI + Pydantic inference backend, containerised with Docker
 - React + Vite frontend on Vercel; backend and PostgreSQL database on Render
-- **In development:** resume parsing, model explainability, skill-gap analysis
+- **Shipped (frontend):** authentication, resume workflows, skill-gap analysis UI
+- **In development:** backend resume parsing and model explainability
+- **Open source:** frontend contributed to the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Jitin2102)
 
 **Stack:** `Python` `Scikit-Learn` `FastAPI` `Pydantic` `React` `Vite` `PostgreSQL` `Docker`
 
@@ -268,6 +276,28 @@ sequenceDiagram
 </details>
 
 <!-- Add QuantumSync, MyShell and the Tamizhan projects here in the same format. -->
+
+---
+
+<a name="open-source"></a>
+
+## Open Source
+
+<div align="center">
+
+<a href="https://hub.xerj.org/contributors/Jitin2102"><img src="https://hub.xerj.org/contributors/Jitin2102/badge.svg" alt="XERJ Corpus Hub contributor"/></a>
+
+</div>
+
+### XERJ Corpus Hub: React Frontend Contributor
+
+> Contributed the SkillGreen React frontend to the XERJ Corpus Hub.
+
+- **25 files, 5,700+ lines of code**
+- Covers **authentication, resume workflows, skill-gap analysis** and the user interface
+- [Contributor profile](https://hub.xerj.org/contributors/Jitin2102)
+
+**Stack:** `React` `Vite` `JavaScript`
 
 ---
 
@@ -333,6 +363,9 @@ mindmap
       Pydantic
       REST APIs
       PostgreSQL
+    Frontend
+      React
+      Vite
     Deployment
       Docker
       AWS
@@ -399,6 +432,7 @@ mindmap
 | Data Science & Analytics Certification | **Tamizhan Skills** |
 | Machine Learning with Python | **freeCodeCamp** |
 | Green Skills & Applied AI for Climate Action | **1M1B** |
+| Open Source Contributor | **XERJ Corpus Hub** |
 | National Service Scheme | **NSS Volunteer** |
 
 ### Coding Profiles
