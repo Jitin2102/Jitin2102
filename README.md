@@ -456,7 +456,7 @@ mindmap
 
 I'm open to **internships** and collaborations in **applied ML, NLP and AI for climate and education**.
 
-<a href="https://drive.google.com/drive/u/0/folders/1mHHLO0e4QoOJCEMy72HYjNLsbiehyGeH"><img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1_vufP3GvAYDZtAGpm-9_7qnFZMGvYFlr/view?usp=sharing"><img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/></a>
 <a href="https://www.linkedin.com/in/jitin2102"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jitinkuietkanpur@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Jitin2102"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
