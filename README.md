@@ -383,8 +383,6 @@ mindmap
 
 ## Stats and Activity
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitin2102&theme=github-compact&hide_border=true&area=true" alt="Jitin Kumar's Contribution Graph" width="100%" />
 </p>
