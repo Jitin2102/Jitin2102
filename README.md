@@ -381,7 +381,7 @@ mindmap
 
 <a name="stats"></a>
 
-## Stats and Activity
+## Github Stats and Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitin2102&theme=github-compact&hide_border=true&area=true" alt="Jitin Kumar's Contribution Graph" width="100%" />
