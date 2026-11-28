@@ -381,13 +381,17 @@ mindmap
 
 <a name="stats"></a>
 
+
 ## Github Stats and Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitin2102&theme=github-compact&hide_border=true&area=true" alt="Jitin Kumar's Contribution Graph" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Jitin2102&theme=github-compact&hide_border=true&area=true"
+    alt="Jitin Kumar's Contribution Graph"
+    width="100%"
+  />
 </p>
 
-<div align="center">
 
 **Contributions over the last 12 months**
 
